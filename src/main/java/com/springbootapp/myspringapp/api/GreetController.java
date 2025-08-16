@@ -8,7 +8,7 @@ public class GreetController {
 
     @GetMapping
     public String greet() {
-        return "Hello, World!";
+        return "Docker is Fun!";
     }
 
 }
